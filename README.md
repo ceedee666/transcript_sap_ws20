@@ -60,6 +60,17 @@
 # 05 - Rekapitulation Fallstudie Vertrieb (SD) 
 Prozessübersicht https://youtu.be/ZljMOLikyj0?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=102
 
+# 06 - Details Vertrieb (SD) 2
+Kundenauftrag anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Terminauftrag ändern https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=126
+Belegfluß anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=168
+Rücknahme Ausgleich https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=287
+Debitoren Einzelpostenliste https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=373
+Faktura stornieren https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=465
+Übersicht https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=622
+Retoure anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=771
+Material buchen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1487
+
 
 
 
