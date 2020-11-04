@@ -72,6 +72,16 @@ Retoure anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE
 Material buchen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1487
 
 
+# 07 - Grundlagen Materialwirtschaft (MM)
+Übersicht https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Übersicht Materialwirschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Übersicht Global Bike Company https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Materialarten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Übersicht Stammdaten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+in SAP https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Hinweis verbrauchergesteuerte Disposition https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Ende Übersicht Materialwirtschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+
 
 
 
