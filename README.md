@@ -75,12 +75,44 @@ Material buchen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_
 # 07 - Grundlagen Materialwirtschaft (MM)
 Übersicht https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 Übersicht Materialwirschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+Organisationsdaten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=291
+Stammdaten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=392
+Bewegungsarten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=533
 Übersicht Global Bike Company https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 Materialarten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 Übersicht Stammdaten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 in SAP https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 Hinweis verbrauchergesteuerte Disposition https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 Ende Übersicht Materialwirtschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+
+# 08 - Details Materialwirtschaft (MM)
+Terminauftrag anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=267
+Details Material https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=362
+Definition Gleitender Durchschnittspreis https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=418
+Bestellung anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=656
+Material anzeigen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=716
+Bestellanforderung anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=826
+Druckansicht https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=901
+Teilprozess Bezugsquellenermittlung https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1033
+Details zu Komponente https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1486 
+Bestands-/Bedarfliste https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1615
+Wareneingang Bestellung https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2080
+Materialbeleg anzeigen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=214
+Übersicht Warenbewegungen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2207
+
+# 09 - Rekapitulation Fallstudie Materialwirtschaft (MM)
+Beschreibung Szenario https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=30
+Übersicht Prozessmodell https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=158 
+Einstieg in SAP https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=230
+Bestellanforderung anzeigen https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=260
+Belegübersicht für Materialbeschaffung https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=307
+Normalbestllung https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=361
+Anzeigen Materialbeleg https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=490
+Übersicht FI Buchungen https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=685
+Saldenanzeige Kreditoren https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=910
+Kreditoren Einzelpostenliste https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=940
+Hauptbuchansicht https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1011
+Sachkontensaldenanzeige https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1145
 
 
 
