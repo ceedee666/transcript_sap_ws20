@@ -114,6 +114,24 @@ Kreditoren Einzelpostenliste https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJ
 Hauptbuchansicht https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1011
 Sachkontensaldenanzeige https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1145
 
+#10 Grundlagen Produktionsplanung & -steuerung (PP)
+Übersicht Produktionsplanung mit Organisations-, Stamm- und Bewegungsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=65
+Hinweis zu ERP und MES https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=302
+Infos Organisationsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=359
+Infos Stammdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=441
+Infos Bewegungsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=535
+Grundbegriffe der Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=563
+Grundbegriff Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=601
+Grundbegriff Produktionstypen https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=668
+Grundbegriff Prozesstypen der Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=805
+Grundbegriff Bedarfsarten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=891
+Grundbegriff Brutto- und Nettobedarf https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=965
+Aachener PPS Modell https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1024
+Produktion bei Global Bike https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1251
+Einstieg Produktionsplanung in SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1313
+Stammdaten Produktgruppe https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1958
+Stammdaten Arbeitsplatz und Kapazität https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2024
+Arbeitsplatz im SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2155
 
 
 
