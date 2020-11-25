@@ -133,6 +133,21 @@ Stammdaten Produktgruppe https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOc
 Stammdaten Arbeitsplatz und Kapazität https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2024
 Arbeitsplatz im SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2155
 
+#11 Details Produktionsplanung & -steuerung (PP)
+Übersicht https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=65 
+Einstieg in SAP https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=153
+Teilprozesse Absatz- und Produktionsgrobplanung https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=337
+Im SAP: Produktionsgrobplanung ändern https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=591
+Produktionsgrobplanung planen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1313
+Ablauf der Materialbedarfsplanung https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1932
+Im SAP: Aktuelle Bedarfs-/Bestandsliste https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2087
+Übersicht Deluxe Touring Bike https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2204
+Übersicht https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2427
+Fertigungsauftrag Arbeitsplan https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2582
+Im SAP: Fertigungsauftrag anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2703
+Soll / Ist Vergleich https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2862
+Im SAP: Fertigerzeugnis anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2961
+Rückwärtsterminierung eines Fertigungsauftrags https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=3116
 
 
 
