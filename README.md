@@ -149,6 +149,32 @@ Soll / Ist Vergleich https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsG
 Im SAP: Fertigerzeugnis anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2961
 Rückwärtsterminierung eines Fertigungsauftrags https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=3116
 
+#12 Grundlagen der Lagerverwaltung 
+Einführung Aufbau komplexer Lager https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=63
+Funktionsumfang der Lagerverwaltung https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=276
+Integration des WMS in das LES https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=401
+Datentypen im Warehouse Management https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=484
+Übersicht Organisationsdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=596
+Übersicht Stammdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=665
+Übersicht Bewegungsdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=751
+Hierarchischer Aufbau der Datentypen https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=825
+Beziehung zwischen WM und MM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1044
+Synchronisation von Beständen zwischen WM und MM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1270
+Organisationsdaten Lagertyp https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1362
+Organisationsdaten Lagerbereich https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1538
+Lagerbereich bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1538
+Stammdaten im WM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1699
+Stammdaten Lagerplatz https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1722
+Stammdaten Quant https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1888
+Stammdaten Lagereinheit https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1951
+Platzkoordinaten bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1981
+Struktur des Regallagers bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2084
+Struktur Palettenlager bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2213
+Quanttrennende Merkmale von Materialien https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2308
+Stammdaten Material https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2437
+UCC Fallstudie Material https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2554
+
+
 
 
 
