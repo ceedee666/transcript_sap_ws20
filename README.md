@@ -28,7 +28,7 @@
 * Aufgaben des Vertriebs https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=125
 * Komponente SD https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=241
 * Organisationsdaten, Stammdaten, Bewegungsdaten https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=310
-* Organisationsdatn Vertrieb
+* Organisationsdaten Vertrieb
   * Kreditkontrollbereich https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1020
   * Verkaufsorganisation https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1103
   * Verkaufsorganisationen in Deutschland https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1150
@@ -36,7 +36,7 @@
   * Vertriebsbereich https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1298
   * (Auslieferungs)Werk https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1502
   * Lagerort und Versandstelle https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1535
-* Stammdatn
+* Stammdaten
   * Debitor https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1739
   * Nachricht https://youtu.be/TZlFXd6Jamo?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=3455
   
