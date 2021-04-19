@@ -61,118 +61,118 @@
 Prozessübersicht https://youtu.be/ZljMOLikyj0?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=102
 
 # 06 - Details Vertrieb (SD) 2
-Kundenauftrag anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Terminauftrag ändern https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=126
-Belegfluß anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=168
-Rücknahme Ausgleich https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=287
-Debitoren Einzelpostenliste https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=373
-Faktura stornieren https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=465
-Übersicht https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=622
-Retoure anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=771
-Material buchen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1487
+* Kundenauftrag anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Terminauftrag ändern https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=126
+* Belegfluß anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=168
+* Rücknahme Ausgleich https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=287
+* Debitoren Einzelpostenliste https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=373
+* Faktura stornieren https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=465
+* Übersicht https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=622
+* Retoure anzeigen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=771
+* Material buchen https://youtu.be/cOqZ0s1yBfI?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1487
 
 
 # 07 - Grundlagen Materialwirtschaft (MM)
-Übersicht https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Übersicht Materialwirschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Organisationsdaten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=291
-Stammdaten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=392
-Bewegungsarten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=533
-Übersicht Global Bike Company https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Materialarten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Übersicht Stammdaten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-in SAP https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Hinweis verbrauchergesteuerte Disposition https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
-Ende Übersicht Materialwirtschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Übersicht https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Übersicht Materialwirschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Organisationsdaten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=291
+* Stammdaten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=392
+* Bewegungsarten Materialfluss https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=533
+* Übersicht Global Bike Company https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Materialarten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Übersicht Stammdaten https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* in SAP https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Hinweis verbrauchergesteuerte Disposition https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
+* Ende Übersicht Materialwirtschaft https://youtu.be/DRW90wql80k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn
 
 # 08 - Details Materialwirtschaft (MM)
-Terminauftrag anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=267
-Details Material https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=362
-Definition Gleitender Durchschnittspreis https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=418
-Bestellung anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=656
-Material anzeigen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=716
-Bestellanforderung anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=826
-Druckansicht https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=901
-Teilprozess Bezugsquellenermittlung https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1033
-Details zu Komponente https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1486 
-Bestands-/Bedarfliste https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1615
-Wareneingang Bestellung https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2080
-Materialbeleg anzeigen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=214
-Übersicht Warenbewegungen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2207
+* Terminauftrag anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=267
+* Details Material https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=362
+* Definition Gleitender Durchschnittspreis https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=418
+* Bestellung anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=656
+* Material anzeigen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=716
+* Bestellanforderung anlegen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=826
+* Druckansicht https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=901
+* Teilprozess Bezugsquellenermittlung https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1033
+* Details zu Komponente https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1486 
+* Bestands-/Bedarfliste https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1615
+* Wareneingang Bestellung https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2080
+* Materialbeleg anzeigen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=214
+* Übersicht Warenbewegungen https://youtu.be/5YQGhN4ogJg?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2207
 
 # 09 - Rekapitulation Fallstudie Materialwirtschaft (MM)
-Beschreibung Szenario https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=30
-Übersicht Prozessmodell https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=158 
-Einstieg in SAP https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=230
-Bestellanforderung anzeigen https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=260
-Belegübersicht für Materialbeschaffung https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=307
-Normalbestllung https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=361
-Anzeigen Materialbeleg https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=490
-Übersicht FI Buchungen https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=685
-Saldenanzeige Kreditoren https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=910
-Kreditoren Einzelpostenliste https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=940
-Hauptbuchansicht https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1011
-Sachkontensaldenanzeige https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1145
+* Beschreibung Szenario https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=30
+* Übersicht Prozessmodell https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=158 
+* Einstieg in SAP https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=230
+* Bestellanforderung anzeigen https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=260
+* Belegübersicht für Materialbeschaffung https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=307
+* Normalbestllung https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=361
+* Anzeigen Materialbeleg https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=490
+* Übersicht FI Buchungen https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=685
+* Saldenanzeige Kreditoren https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=910
+* Kreditoren Einzelpostenliste https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=940
+* Hauptbuchansicht https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1011
+* Sachkontensaldenanzeige https://youtu.be/2Fmgzc6IrXA?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1145
 
 #10 Grundlagen Produktionsplanung & -steuerung (PP)
-Übersicht Produktionsplanung mit Organisations-, Stamm- und Bewegungsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=65
-Hinweis zu ERP und MES https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=302
-Infos Organisationsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=359
-Infos Stammdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=441
-Infos Bewegungsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=535
-Grundbegriffe der Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=563
-Grundbegriff Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=601
-Grundbegriff Produktionstypen https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=668
-Grundbegriff Prozesstypen der Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=805
-Grundbegriff Bedarfsarten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=891
-Grundbegriff Brutto- und Nettobedarf https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=965
-Aachener PPS Modell https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1024
-Produktion bei Global Bike https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1251
-Einstieg Produktionsplanung in SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1313
-Stammdaten Produktgruppe https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1958
-Stammdaten Arbeitsplatz und Kapazität https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2024
-Arbeitsplatz im SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2155
+* Übersicht Produktionsplanung mit Organisations-, Stamm- und Bewegungsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=65
+* Hinweis zu ERP und MES https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=302
+* Infos Organisationsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=359
+* Infos Stammdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=441
+* Infos Bewegungsdaten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=535
+* Grundbegriffe der Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=563
+* Grundbegriff Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=601
+* Grundbegriff Produktionstypen https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=668
+* Grundbegriff Prozesstypen der Produktion https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=805
+* Grundbegriff Bedarfsarten https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=891
+* Grundbegriff Brutto- und Nettobedarf https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=965
+* Aachener PPS Modell https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1024
+* Produktion bei Global Bike https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1251
+* Einstieg Produktionsplanung in SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1313
+* Stammdaten Produktgruppe https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1958
+* Stammdaten Arbeitsplatz und Kapazität https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2024
+* Arbeitsplatz im SAP https://youtu.be/_L9FtXfo_-k?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2155
 
 #11 Details Produktionsplanung & -steuerung (PP)
-Übersicht https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=65 
-Einstieg in SAP https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=153
-Teilprozesse Absatz- und Produktionsgrobplanung https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=337
-Im SAP: Produktionsgrobplanung ändern https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=591
-Produktionsgrobplanung planen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1313
-Ablauf der Materialbedarfsplanung https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1932
-Im SAP: Aktuelle Bedarfs-/Bestandsliste https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2087
-Übersicht Deluxe Touring Bike https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2204
-Übersicht https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2427
-Fertigungsauftrag Arbeitsplan https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2582
-Im SAP: Fertigungsauftrag anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2703
-Soll / Ist Vergleich https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2862
-Im SAP: Fertigerzeugnis anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2961
-Rückwärtsterminierung eines Fertigungsauftrags https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=3116
+* Übersicht https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=65 
+* Einstieg in SAP https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=153
+* Teilprozesse Absatz- und Produktionsgrobplanung https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=337
+* Im SAP: Produktionsgrobplanung ändern https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=591
+* Produktionsgrobplanung planen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1313
+* Ablauf der Materialbedarfsplanung https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1932
+* Im SAP: Aktuelle Bedarfs-/Bestandsliste https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2087
+* Übersicht Deluxe Touring Bike https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2204
+* Übersicht https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2427
+* Fertigungsauftrag Arbeitsplan https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2582
+* Im SAP: Fertigungsauftrag anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2703
+* Soll / Ist Vergleich https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2862
+* Im SAP: Fertigerzeugnis anzeigen https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2961
+* Rückwärtsterminierung eines Fertigungsauftrags https://youtu.be/NOoakd3FyTc?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=3116
 
 #12 Grundlagen der Lagerverwaltung 
-Einführung Aufbau komplexer Lager https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=63
-Funktionsumfang der Lagerverwaltung https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=276
-Integration des WMS in das LES https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=401
-Datentypen im Warehouse Management https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=484
-Übersicht Organisationsdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=596
-Übersicht Stammdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=665
-Übersicht Bewegungsdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=751
-Hierarchischer Aufbau der Datentypen https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=825
-Beziehung zwischen WM und MM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1044
-Synchronisation von Beständen zwischen WM und MM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1270
-Organisationsdaten Lagertyp https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1362
-Organisationsdaten Lagerbereich https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1538
-Lagerbereich bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1538
-Stammdaten im WM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1699
-Stammdaten Lagerplatz https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1722
-Stammdaten Quant https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1888
-Stammdaten Lagereinheit https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1951
-Platzkoordinaten bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1981
-Struktur des Regallagers bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2084
-Struktur Palettenlager bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2213
-Quanttrennende Merkmale von Materialien https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2308
-Stammdaten Material https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2437
-UCC Fallstudie Material https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2554
+* Einführung Aufbau komplexer Lager https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=63
+* Funktionsumfang der Lagerverwaltung https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=276
+* Integration des WMS in das LES https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=401
+* Datentypen im Warehouse Management https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=484
+* Übersicht Organisationsdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=596
+* Übersicht Stammdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=665
+* Übersicht Bewegungsdaten https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=751
+* Hierarchischer Aufbau der Datentypen https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=825
+* Beziehung zwischen WM und MM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1044
+* Synchronisation von Beständen zwischen WM und MM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1270
+* Organisationsdaten Lagertyp https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1362
+* Organisationsdaten Lagerbereich https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1538
+* Lagerbereich bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1538
+* Stammdaten im WM https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1699
+* Stammdaten Lagerplatz https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1722
+* Stammdaten Quant https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1888
+* Stammdaten Lagereinheit https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1951
+* Platzkoordinaten bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=1981
+* Struktur des Regallagers bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2084
+* Struktur Palettenlager bei Global Bike https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2213
+* Quanttrennende Merkmale von Materialien https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2308
+* Stammdaten Material https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2437
+* UCC Fallstudie Material https://youtu.be/6k3cXHBxNGE?list=PLl09U8aTDcv1nplJmrOcLpsGkNBE_zDYn&t=2554
 
 
 
